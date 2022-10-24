@@ -1,5 +1,3 @@
-from os import scandir
-from re import X
 from typing import List
 
 
