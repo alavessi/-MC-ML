@@ -1,5 +1,3 @@
-from array import array
-from turtle import distance
 import numpy as np
 
 
